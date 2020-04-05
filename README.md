@@ -1,2 +1,2 @@
-# COLOURFUL-BACKGROUND
-C20 Project
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
